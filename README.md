@@ -1,8 +1,11 @@
+
 ## 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗖𝗮𝗿𝗼𝗹𝗶𝗻𝗮 𝗖𝗮𝗿𝗮𝗯𝗮𝗹𝗹𝗼 𝗩𝗲𝗹𝗲𝘇! 
 
-I'm a junior at Chapman University studying Computer Science with a minor in Game Development. 
+## About me
+- Junior at Chapman University, majoring in Computer & minor in Game Development.
+- Aspiring Software Developer
 
-Current tech stack
+## Current tech stack
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
@@ -12,3 +15,9 @@ Current tech stack
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
+
+## How to reach me:
+You can reach me by email at carolinacaraballovelez@gmail.com
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/carolina-cv/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/daylightkith/)
+
